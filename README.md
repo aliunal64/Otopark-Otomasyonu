@@ -66,5 +66,8 @@ hızlıca görebilir.
 -   🔄 AJAX (Dinamik veri işlemleri)
 -   📄 TCPDF (PDF oluşturma)
 
+###  🤝 Topluluk Katkısı
+Bu proje topluluk katkısına açıktır.
+
 ###  📄 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](./LICENSE) dosyasına bakın.
