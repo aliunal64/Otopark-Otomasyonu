@@ -65,3 +65,6 @@ hızlıca görebilir.
 -   🎨 Bootstrap 5, Google Fonts (Arayüz tasarımı)
 -   🔄 AJAX (Dinamik veri işlemleri)
 -   📄 TCPDF (PDF oluşturma)
+
+###  📄 Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](./LICENSE) dosyasına bakın.
